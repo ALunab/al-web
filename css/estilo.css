@@ -1,0 +1,32 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+#logo {
+	background: url('../img/banner.jpg') no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover; 
+}
+
+.leading-text {
+	color: white;
+ 	text-align:center;
+ 	padding-top: 15%;
+
+}
+.porta {
+	background-color: gray;
+	color: white;
+}
+.muestra {
+	width: 50px;
+	height: 100px;
+	margin-bottom: 50px;
+}
+.center  {
+	text-align: center;
+}
